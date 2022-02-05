@@ -1,0 +1,2 @@
+# WebPicResponder
+ My bot plugin

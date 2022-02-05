@@ -1,0 +1,15 @@
+D:\vspjt\WebPicResponder\WebPicResponder\bin\Debug\net6.0\WebPicResponder.exe
+D:\vspjt\WebPicResponder\WebPicResponder\bin\Debug\net6.0\WebPicResponder.deps.json
+D:\vspjt\WebPicResponder\WebPicResponder\bin\Debug\net6.0\WebPicResponder.runtimeconfig.json
+D:\vspjt\WebPicResponder\WebPicResponder\bin\Debug\net6.0\WebPicResponder.dll
+D:\vspjt\WebPicResponder\WebPicResponder\bin\Debug\net6.0\ref\WebPicResponder.dll
+D:\vspjt\WebPicResponder\WebPicResponder\bin\Debug\net6.0\WebPicResponder.pdb
+D:\vspjt\WebPicResponder\WebPicResponder\obj\Debug\net6.0\WebPicResponder.csproj.AssemblyReference.cache
+D:\vspjt\WebPicResponder\WebPicResponder\obj\Debug\net6.0\WebPicResponder.GeneratedMSBuildEditorConfig.editorconfig
+D:\vspjt\WebPicResponder\WebPicResponder\obj\Debug\net6.0\WebPicResponder.AssemblyInfoInputs.cache
+D:\vspjt\WebPicResponder\WebPicResponder\obj\Debug\net6.0\WebPicResponder.AssemblyInfo.cs
+D:\vspjt\WebPicResponder\WebPicResponder\obj\Debug\net6.0\WebPicResponder.csproj.CoreCompileInputs.cache
+D:\vspjt\WebPicResponder\WebPicResponder\obj\Debug\net6.0\WebPicResponder.dll
+D:\vspjt\WebPicResponder\WebPicResponder\obj\Debug\net6.0\ref\WebPicResponder.dll
+D:\vspjt\WebPicResponder\WebPicResponder\obj\Debug\net6.0\WebPicResponder.pdb
+D:\vspjt\WebPicResponder\WebPicResponder\obj\Debug\net6.0\WebPicResponder.genruntimeconfig.cache
