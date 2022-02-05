@@ -13,7 +13,6 @@ Console.ReadKey();
 public class WebListener
 {
     private HttpListener _listener;
-    private string address = "82.156.182.143";//域名82.156.182.143
     private string port = "1145";//port
 
     public WebListener()
