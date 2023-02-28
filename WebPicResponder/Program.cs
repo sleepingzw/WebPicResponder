@@ -7,6 +7,7 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
+
 WebListener WebListener = new WebListener();
 Console.ReadKey();
 
@@ -22,6 +23,7 @@ public class WebListener
 
         _listener.Start();
         _listener.BeginGetContext(new AsyncCallback(ListenerHandle), _listener);
+        Console.WriteLine("start listening");
     }
     private void ListenerHandle(IAsyncResult result)
     {
@@ -37,7 +39,10 @@ public class WebListener
 
                 //构造Response响应
                 if (request.RawUrl!.StartsWith("/pics?"))
+                {
                     GetPics(request.RawUrl, context.Response, !string.IsNullOrEmpty(request.Headers.Get("If-Modified-Since")));
+                    Console.WriteLine("start request");
+                }
             }
         }
         catch (Exception ex)
